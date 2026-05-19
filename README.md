@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently working on A project that calculates laminate stiffness and recommends suitable materials for it<br> I’m looking to collaborate onWeb development projects that tackle real-life problems<br> I’m looking for help with Deepening my knowledge in web development and breaking into machine learning<br> I’m currently learning Machine learning concepts and building smarter, data-driven applications<br>Ask me about Web development, material science applications in tech, and how to bridge engineering with software<br>⚡ Fun fact I'm building a tool that sits at the intersection of materials science and AI — not many devs venture there!
+ I’m currently working on A project that calculates laminate stiffness and recommends suitable materials for it<br> I’m looking to collaborate onWeb development projects that tackle real-life problems<br> I’m looking for help with Deepening my knowledge in web development and breaking into machine learning<br> I’m currently learning Machine learning concepts and building smarter, data-driven applications<br>Ask me about Web development, material science applications in tech, and how to bridge engineering with software<br>Fun fact I'm building a tool that sits at the intersection of materials science and AI — not many devs venture there!
 
 
 ## 🌐 Socials:
